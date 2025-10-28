@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Components
+title: Ceibo 🌱
 ---
 ![Latest version](https://img.shields.io/npm/v/ceibo.svg)  [![CI](https://github.com/san650/ceibo/actions/workflows/ci.yml/badge.svg)](https://github.com/san650/ceibo/actions/workflows/ci.yml)
 
