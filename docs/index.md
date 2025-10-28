@@ -1,9 +1,12 @@
 ---
 title: Ceibo 🌱
+layout: layout
 ---
 ![Latest version](https://img.shields.io/npm/v/ceibo.svg)  [![CI](https://github.com/san650/ceibo/actions/workflows/ci.yml/badge.svg)](https://github.com/san650/ceibo/actions/workflows/ci.yml)
 
 # Ceibo 🌱
+___
+
 JavaScript micro library to model trees that evaluate arbitrary code when
 accessing its nodes.
 
